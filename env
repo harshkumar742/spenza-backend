@@ -1,0 +1,8 @@
+PORT=8000
+MONGO_URI=mongodb+srv://harsh1:harsh1234@cluster0.op4nnlj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=q3K8vZ7X1pR9nA6sD2eF4tG7hJ0lM5qW8rYzB1cV3nT6kLpO9uIjH7gE5sAaDdF2
+WEBHOOK_SOURCE_SECRET=q3K8vZ7X1pR9nA6sD2eF4tG7hJ0lM5qW8rYzB1cV3nT6kLpO9uIjH7gE5sAaDdF2
+KAFKA_BROKER=pkc-l7pr2.ap-south-1.aws.confluent.cloud:9092
+KAFKA_USERNAME=4RL2UAVWBMISULMS
+KAFKA_PASSWORD=mAmiVPNKf42GqYTvZA8+l8VZFcihs4LcDrsR8iBv7zKiGgSwSr1mwFfy5rGXoYHT
+KAFKA_TOPIC=spenza
